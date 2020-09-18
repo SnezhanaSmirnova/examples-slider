@@ -1,0 +1,114 @@
+.my-slider{
+    width: 50%;
+    height: 550px;
+    border: 1px solid black;
+    margin: 0 auto;
+    position: relative;
+}
+.my-slider .slide-img{
+    width:100%;
+    height: 100%;
+    position: absolute;
+}
+.prev-button, .next-button{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: burlywood;
+    font-size: 28px;
+    text-align: center;
+    top: 45%
+}
+
+.prev-button{
+    left: 0;
+}
+.next-button{
+    right: 0;
+}
+.active{
+    border: 3px solid red;
+}
+.small-img{
+    width: 100px;
+    height: 75px;
+    /* border: 1px solid black; */
+    display: inline-block;
+    position: relative;
+    margin-top: 10px;
+    left: 260px;
+    margin-right: 5px;
+    
+    
+}
+.img1{
+    width: 100px;
+    height: 75px;
+    background: url(images/1.1.JPG);
+    background-size: cover;
+    
+}
+.img2{
+    width: 100px;
+    height: 75px;
+    background: url(images/2.1.JPG);
+    background-size: cover;
+    
+}
+.img3{
+    width: 100px;
+    height: 75px;
+    background: url(images/3.1.JPG);
+    background-size: cover;
+    
+}
+.img4{
+    width: 100px;
+    height: 75px;
+    background: url(images/4.1.JPG);
+    background-size: cover;
+    
+}
+.img5{
+    width: 100px;
+    height: 75px;
+    background: url(images/5.1.JPG);
+    background-size: cover;
+    
+}
+.img6{
+    width: 100px;
+    height: 75px;
+    background: url(images/6.1.JPG);
+    background-size: cover;
+    
+}
+.img7{
+    width: 100px;
+    height: 75px;
+    background: url(images/7.1.JPG);
+    background-size: cover;
+    
+}
+.img8{
+    width: 100px;
+    height: 75px;
+    background: url(images/8.1.JPG);
+    background-size: cover;
+    
+}
+.img9{
+    width: 100px;
+    height: 75px;
+    background: url(images/9.1.JPG);
+    background-size: cover;
+    
+}
+.img10{
+    width: 100px;
+    height: 75px;
+    background: url(images/10.1.JPG);
+    background-size: cover;
+    
+}
